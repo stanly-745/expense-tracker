@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/expense-tracker/static/css/main.e9f44403.css",
-    "main.js": "/expense-tracker/static/js/main.bf0ceebf.js",
-    "index.html": "/expense-tracker/index.html",
-    "main.e9f44403.css.map": "/expense-tracker/static/css/main.e9f44403.css.map",
-    "main.bf0ceebf.js.map": "/expense-tracker/static/js/main.bf0ceebf.js.map"
+    "main.css": "/https//stanly-745.github.io/expense-tracker/static/css/main.e9f44403.css",
+    "main.js": "/https//stanly-745.github.io/expense-tracker/static/js/main.c0e716c7.js",
+    "index.html": "/https//stanly-745.github.io/expense-tracker/index.html",
+    "main.e9f44403.css.map": "/https//stanly-745.github.io/expense-tracker/static/css/main.e9f44403.css.map",
+    "main.c0e716c7.js.map": "/https//stanly-745.github.io/expense-tracker/static/js/main.c0e716c7.js.map"
   },
   "entrypoints": [
     "static/css/main.e9f44403.css",
-    "static/js/main.bf0ceebf.js"
+    "static/js/main.c0e716c7.js"
   ]
 }
